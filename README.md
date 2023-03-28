@@ -1,2 +1,2 @@
 # GraduationProject
-University Specialization Recommender System
+University Degree Recommender System
